@@ -1,0 +1,52 @@
+#jumbotronbanner {
+    background-image: url(../img/banner2.jpg);
+    background-size: cover;
+}
+
+.kaderfoto {
+    background-size: cover;
+    /*max-width: 500px;*/
+    /*max-height: 500px;*/
+    /*height: 100%;*/
+    width: 100%;
+    /*height: 500px;*/
+    /*transform: rotate(-2deg);*/
+}
+
+
+/** Pagina specifieke css **/
+
+#kaderfoto-gevat {
+    background-image: url(../img/kaderfotogevat.jpg);
+    height: 400px;
+}
+
+#kaderfoto-hanna {
+    background-image: url(../img/kaderfotohanna.jpg);
+    height: 400px;
+}
+
+#kaderfoto-coachingenbegeleiding {
+    background-image: url(../img/kaderfotocoaching.jpg);
+    height: 400px;
+}
+
+#kaderfoto-lyme {
+    background-image: url(../img/kaderfotolyme.jpg);
+    height: 400px;
+}
+
+#kaderfoto-workshop {
+    background-image: url(../img/kaderfotoworkshop.jpg);
+    height: 400px;
+}
+
+#kaderfoto-elandweekenden {
+    background-image: url(../img/kaderfotoelanweekenden.jpg);
+    height: 400px;
+}
+
+#kaderfoto-contact {
+    background-image: url(../img/kaderfotocontact.jpg);
+    height: 400px;
+}
