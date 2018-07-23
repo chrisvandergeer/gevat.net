@@ -1,52 +1,71 @@
 #jumbotronbanner {
-    background-image: url(../img/banner2.jpg);
+    background-image: url(../img/banner3.jpg);
     background-size: cover;
 }
 
 .kaderfoto {
-    background-size: cover;
-    /*max-width: 500px;*/
-    /*max-height: 500px;*/
-    /*height: 100%;*/
+    background-size: contain;
+    background-color: transparent;
+    background-repeat: no-repeat;
     width: 100%;
-    /*height: 500px;*/
-    /*transform: rotate(-2deg);*/
+    height: 100%;
+}
+
+#logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 250px;
 }
 
 
 /** Pagina specifieke css **/
 
+.container {
+    background-color: #eeeeee;
+}
+
 #kaderfoto-gevat {
     background-image: url(../img/kaderfotogevat.jpg);
-    height: 400px;
 }
 
 #kaderfoto-hanna {
     background-image: url(../img/kaderfotohanna.jpg);
-    height: 400px;
 }
 
 #kaderfoto-coachingenbegeleiding {
     background-image: url(../img/kaderfotocoaching.jpg);
-    height: 400px;
 }
 
 #kaderfoto-lyme {
     background-image: url(../img/kaderfotolyme.jpg);
-    height: 400px;
 }
 
 #kaderfoto-workshop {
     background-image: url(../img/kaderfotoworkshop.jpg);
-    height: 400px;
 }
 
 #kaderfoto-elandweekenden {
     background-image: url(../img/kaderfotoelanweekenden.jpg);
-    height: 400px;
 }
 
 #kaderfoto-contact {
     background-image: url(../img/kaderfotocontact.jpg);
-    height: 400px;
+}
+
+#headerdiv {
+    display: block;
+    width: 100%;
+    height: 160px;
+}
+
+#headerfoto {
+    float: left;
+    margin-bottom: 20px;
+}
+
+#header {
+    margin-top: 95px;
+    margin-left: 30px;
+    float: left;
+    vertical-align: bottom;
 }
