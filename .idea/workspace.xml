@@ -6,27 +6,8 @@
       <change beforePath="$PROJECT_DIR$/coachingenbegeleiding.html" beforeDir="false" afterPath="$PROJECT_DIR$/coachingenbegeleiding.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/gevat.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gevat.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elanweekenden.html" beforeDir="false" afterPath="$PROJECT_DIR$/elanweekenden.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gevat.html" beforeDir="false" afterPath="$PROJECT_DIR$/gevat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hanna.html" beforeDir="false" afterPath="$PROJECT_DIR$/hanna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/c2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaderfotocoaching.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kaderfotocoaching.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaderfotocontact.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kaderfotocontact.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaderfotoelanweekenden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kaderfotoelanweekenden.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaderfotohanna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kaderfotohanna.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaderfotolyme.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kaderfotolyme.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaderfotoworkshop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kaderfotoworkshop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kleinefotocoachingenbegeleiding.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kleinefotocontact.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kleinefotocontact.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kleinefotoelanweekenden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kleinefotoelanweekenden.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kleinefotohanna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kleinefotohanna.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kleinefotolyme.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kleinefotolyme.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kleinefotoworkshop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/kleinefotoworkshop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lyme.html" beforeDir="false" afterPath="$PROJECT_DIR$/lyme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop.html" beforeDir="false" afterPath="$PROJECT_DIR$/workshop.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="480">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -50,8 +31,8 @@
       <file leaf-file-name="coachingenbegeleiding.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coachingenbegeleiding.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="55" column="65" selection-start-line="55" selection-start-column="65" selection-end-line="55" selection-end-column="65" />
+            <state relative-caret-position="185">
+              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -59,7 +40,7 @@
       <file leaf-file-name="workshop.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workshop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
+            <state relative-caret-position="825">
               <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
             </state>
           </provider>
@@ -68,8 +49,8 @@
       <file leaf-file-name="lyme.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lyme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="68" column="62" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="62" />
+            <state relative-caret-position="499">
+              <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -77,8 +58,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="623">
+              <caret line="95" column="77" selection-start-line="95" selection-start-column="77" selection-end-line="95" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -86,8 +67,8 @@
       <file leaf-file-name="elanweekenden.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elanweekenden.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="615">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -95,8 +76,8 @@
       <file leaf-file-name="gevat.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/gevat.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="277">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -109,8 +90,8 @@
       <file leaf-file-name="hanna.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hanna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="94" selection-start-line="55" selection-start-column="94" selection-end-line="55" selection-end-column="94" />
+            <state relative-caret-position="1470">
+              <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -150,13 +131,13 @@
       <list>
         <option value="$PROJECT_DIR$/indexcopy.html" />
         <option value="$PROJECT_DIR$/gevat.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/coachingenbegeleiding.html" />
-        <option value="$PROJECT_DIR$/lyme.html" />
         <option value="$PROJECT_DIR$/workshop.html" />
         <option value="$PROJECT_DIR$/elanweekenden.html" />
-        <option value="$PROJECT_DIR$/hanna.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/hanna.html" />
+        <option value="$PROJECT_DIR$/coachingenbegeleiding.html" />
+        <option value="$PROJECT_DIR$/lyme.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/css/gevat.css" />
       </list>
     </option>
@@ -170,10 +151,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -183,6 +164,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,18 +179,10 @@
               <item name="gevat.nl" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gevat.nl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gevat.nl" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,15 +294,16 @@
       <workItem from="1531165090015" duration="8233000" />
       <workItem from="1531337621251" duration="991000" />
       <workItem from="1531503978727" duration="4541000" />
-      <workItem from="1532287296970" duration="4076000" />
+      <workItem from="1532287296970" duration="4146000" />
+      <workItem from="1532354759886" duration="1338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26676000" />
+    <option name="totallyTimeSpent" value="28084000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
@@ -363,12 +340,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="5" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.12847222" />
       <window_info id="Structure" order="5" weight="0.25" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
@@ -378,7 +355,7 @@
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info id="Capture Tool" order="0" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="right" id="Database" order="2" />
@@ -564,9 +541,7 @@
     <entry file="file://$PROJECT_DIR$/img/c1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/c2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/c2.jpg" />
     <entry file="file://$PROJECT_DIR$/img/c3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -601,23 +576,9 @@
     <entry file="file://$PROJECT_DIR$/img/kleinefotocontact.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coachingenbegeleiding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="55" column="65" selection-start-line="55" selection-start-column="65" selection-end-line="55" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workshop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
+        <state relative-caret-position="825">
           <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
         </state>
       </provider>
@@ -631,36 +592,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elanweekenden.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hanna.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="94" selection-start-line="55" selection-start-column="94" selection-end-line="55" selection-end-column="94" />
+        <state relative-caret-position="615">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="480">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanna.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coachingenbegeleiding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lyme.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="68" column="62" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="62" />
+        <state relative-caret-position="499">
+          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="95" column="77" selection-start-line="95" selection-start-column="77" selection-end-line="95" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/gevat.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="277">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
