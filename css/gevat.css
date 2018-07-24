@@ -1,6 +1,7 @@
 #jumbotronbanner {
     background-image: url(../img/banner3.jpg);
     background-size: cover;
+    padding-bottom: 40px;
 }
 
 .kaderfoto {
@@ -21,14 +22,22 @@ body {
     font-size: 100%;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+    padding-left: 18px;
+}
+
 .kleinefoto {
     height: 100px;
+    margin-bottom: 7px;
 }
 
 /** Pagina specifieke css **/
 
 .container {
     background-color: #f9f9f9;
+    padding-bottom: 50px;
 }
 
 #kaderfoto-gevat {
@@ -53,6 +62,14 @@ body {
 
 #kaderfoto-elandweekenden {
     background-image: url(../img/kaderfotoelanweekenden.jpg);
+}
+
+#kaderfoto-elan1 {
+    background-image: url(../img/foto-elan-1.jpg);
+}
+
+#kaderfoto-elan2 {
+    background-image: url(../img/foto-elan-2.jpg);
 }
 
 #kaderfoto-contact {
