@@ -17,6 +17,13 @@
     width: 250px;
 }
 
+body {
+    font-size: 100%;
+}
+
+.kleinefoto {
+    height: 100px;
+}
 
 /** Pagina specifieke css **/
 
@@ -37,7 +44,7 @@
 }
 
 #kaderfoto-lyme {
-    background-image: url(../img/kaderfotolyme.jpg);
+    background-image: url(../img/kaderfotolyme.png);
 }
 
 #kaderfoto-workshop {
